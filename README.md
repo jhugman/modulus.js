@@ -56,6 +56,8 @@ In another module, a developer has written a new handler. Instead of touching th
 If no-one is tracking the extension point at time of adding a new extension, then the extension is saved until 
 someone does. This allows for order-independence of module loading.
 
+I will add more examples into the examples dir.
+
 Documentation
 -------------
 This is an initial release, so the inline documentation hasn't been processed yet (it's there, just not in HTML). 
